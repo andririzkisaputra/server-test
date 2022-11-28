@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-19 22:34:36 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2022-07-19 22:34:37 --> 404 Page Not Found: Phpinfophp/index
+ERROR - 2022-07-19 22:34:39 --> 404 Page Not Found: Phpinfo/index
+ERROR - 2022-07-19 22:34:41 --> 404 Page Not Found: Awsyml/index
+ERROR - 2022-07-19 22:34:43 --> 404 Page Not Found: Env/index
+ERROR - 2022-07-19 22:34:44 --> 404 Page Not Found: Envbak/index
+ERROR - 2022-07-19 22:34:46 --> 404 Page Not Found: Infophp/index
+ERROR - 2022-07-19 22:34:47 --> 404 Page Not Found: Laravel/.env
+ERROR - 2022-07-19 22:34:48 --> 404 Page Not Found: Local/.env
+ERROR - 2022-07-19 22:34:51 --> 404 Page Not Found: Backend/.env
+ERROR - 2022-07-19 22:34:57 --> 404 Page Not Found: Protected/.env
+ERROR - 2022-07-19 22:34:59 --> 404 Page Not Found: Database/.env
+ERROR - 2022-07-19 22:35:00 --> 404 Page Not Found: Public/.env
+ERROR - 2022-07-19 22:35:02 --> 404 Page Not Found: App/config
+ERROR - 2022-07-19 22:35:04 --> 404 Page Not Found: Aws/credentials
+ERROR - 2022-07-19 22:35:09 --> 404 Page Not Found: Config/aws.yml
+ERROR - 2022-07-19 22:35:12 --> 404 Page Not Found: Configjs/index
+ERROR - 2022-07-19 22:55:50 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2022-07-19 22:55:53 --> 404 Page Not Found: Phpinfophp/index
+ERROR - 2022-07-19 22:55:55 --> 404 Page Not Found: Phpinfo/index
+ERROR - 2022-07-19 22:55:58 --> 404 Page Not Found: Awsyml/index
+ERROR - 2022-07-19 22:56:00 --> 404 Page Not Found: Env/index
+ERROR - 2022-07-19 22:56:02 --> 404 Page Not Found: Envbak/index
+ERROR - 2022-07-19 22:56:05 --> 404 Page Not Found: Infophp/index
+ERROR - 2022-07-19 22:56:07 --> 404 Page Not Found: Laravel/.env
+ERROR - 2022-07-19 22:56:14 --> 404 Page Not Found: Local/.env
+ERROR - 2022-07-19 22:56:18 --> 404 Page Not Found: Backend/.env
+ERROR - 2022-07-19 22:56:25 --> 404 Page Not Found: Protected/.env
+ERROR - 2022-07-19 22:56:27 --> 404 Page Not Found: Database/.env
+ERROR - 2022-07-19 22:56:29 --> 404 Page Not Found: Public/.env
+ERROR - 2022-07-19 22:56:32 --> 404 Page Not Found: App/config
+ERROR - 2022-07-19 22:56:34 --> 404 Page Not Found: Aws/credentials
+ERROR - 2022-07-19 22:56:38 --> 404 Page Not Found: Config/aws.yml
+ERROR - 2022-07-19 22:56:44 --> 404 Page Not Found: Configjs/index
